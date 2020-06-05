@@ -14,3 +14,5 @@ Don't press 4 when it's red
 ![The appearance of ESOCounter right now in version v0.1](https://raw.githubusercontent.com/DeltaMod/ESOCounter/master/ESOGuiPreview.PNG)
 
 Warning: Currently, it will only listen in once every 0.1 seconds to find out if the button 4 is pressed, and then wait until it is depressed. Problem is, if you press 4 to quickly, it might not always catch the event. I intend to figure out a way to let it store commands for later.
+
+The other abilities are just for show, for now.
